@@ -1,0 +1,191 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TpFinalPlataformaGrupo6
+build_property.RootNamespace = TpFinalPlataformaGrupo6
+build_property.ProjectDir = C:\Users\pupik\OneDrive\Escritorio\TpFinalPlataformas\TpFinalPlataformaGrupo6\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\pupik\OneDrive\Escritorio\TpFinalPlataformas\TpFinalPlataformaGrupo6
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/pupik/OneDrive/Escritorio/TpFinalPlataformas/TpFinalPlataformaGrupo6/Views/CajaDeAhorroes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FqYURlQWhvcnJvZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pupik/OneDrive/Escritorio/TpFinalPlataformas/TpFinalPlataformaGrupo6/Views/CajaDeAhorroes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FqYURlQWhvcnJvZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pupik/OneDrive/Escritorio/TpFinalPlataformas/TpFinalPlataformaGrupo6/Views/CajaDeAhorroes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FqYURlQWhvcnJvZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pupik/OneDrive/Escritorio/TpFinalPlataformas/TpFinalPlataformaGrupo6/Views/CajaDeAhorroes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FqYURlQWhvcnJvZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pupik/OneDrive/Escritorio/TpFinalPlataformas/TpFinalPlataformaGrupo6/Views/CajaDeAhorroes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FqYURlQWhvcnJvZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pupik/OneDrive/Escritorio/TpFinalPlataformas/TpFinalPlataformaGrupo6/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pupik/OneDrive/Escritorio/TpFinalPlataformas/TpFinalPlataformaGrupo6/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pupik/OneDrive/Escritorio/TpFinalPlataformas/TpFinalPlataformaGrupo6/Views/Movimientoes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aW1pZW50b2VzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pupik/OneDrive/Escritorio/TpFinalPlataformas/TpFinalPlataformaGrupo6/Views/Movimientoes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aW1pZW50b2VzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pupik/OneDrive/Escritorio/TpFinalPlataformas/TpFinalPlataformaGrupo6/Views/Movimientoes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aW1pZW50b2VzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pupik/OneDrive/Escritorio/TpFinalPlataformas/TpFinalPlataformaGrupo6/Views/Movimientoes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aW1pZW50b2VzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pupik/OneDrive/Escritorio/TpFinalPlataformas/TpFinalPlataformaGrupo6/Views/Movimientoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aW1pZW50b2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pupik/OneDrive/Escritorio/TpFinalPlataformas/TpFinalPlataformaGrupo6/Views/Pagoes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnb2VzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pupik/OneDrive/Escritorio/TpFinalPlataformas/TpFinalPlataformaGrupo6/Views/Pagoes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnb2VzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pupik/OneDrive/Escritorio/TpFinalPlataformas/TpFinalPlataformaGrupo6/Views/Pagoes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnb2VzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pupik/OneDrive/Escritorio/TpFinalPlataformas/TpFinalPlataformaGrupo6/Views/Pagoes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnb2VzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pupik/OneDrive/Escritorio/TpFinalPlataformas/TpFinalPlataformaGrupo6/Views/Pagoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnb2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pupik/OneDrive/Escritorio/TpFinalPlataformas/TpFinalPlataformaGrupo6/Views/PlazoFijoes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhem9GaWpvZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pupik/OneDrive/Escritorio/TpFinalPlataformas/TpFinalPlataformaGrupo6/Views/PlazoFijoes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhem9GaWpvZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pupik/OneDrive/Escritorio/TpFinalPlataformas/TpFinalPlataformaGrupo6/Views/PlazoFijoes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhem9GaWpvZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pupik/OneDrive/Escritorio/TpFinalPlataformas/TpFinalPlataformaGrupo6/Views/PlazoFijoes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhem9GaWpvZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pupik/OneDrive/Escritorio/TpFinalPlataformas/TpFinalPlataformaGrupo6/Views/PlazoFijoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhem9GaWpvZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pupik/OneDrive/Escritorio/TpFinalPlataformas/TpFinalPlataformaGrupo6/Views/Register/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pupik/OneDrive/Escritorio/TpFinalPlataformas/TpFinalPlataformaGrupo6/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pupik/OneDrive/Escritorio/TpFinalPlataformas/TpFinalPlataformaGrupo6/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pupik/OneDrive/Escritorio/TpFinalPlataformas/TpFinalPlataformaGrupo6/Views/TarjetaDeCreditoes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyamV0YURlQ3JlZGl0b2VzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pupik/OneDrive/Escritorio/TpFinalPlataformas/TpFinalPlataformaGrupo6/Views/TarjetaDeCreditoes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyamV0YURlQ3JlZGl0b2VzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pupik/OneDrive/Escritorio/TpFinalPlataformas/TpFinalPlataformaGrupo6/Views/TarjetaDeCreditoes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyamV0YURlQ3JlZGl0b2VzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pupik/OneDrive/Escritorio/TpFinalPlataformas/TpFinalPlataformaGrupo6/Views/TarjetaDeCreditoes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyamV0YURlQ3JlZGl0b2VzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pupik/OneDrive/Escritorio/TpFinalPlataformas/TpFinalPlataformaGrupo6/Views/TarjetaDeCreditoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyamV0YURlQ3JlZGl0b2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pupik/OneDrive/Escritorio/TpFinalPlataformas/TpFinalPlataformaGrupo6/Views/UsuarioCajaDeAhorroes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb0NhamFEZUFob3Jyb2VzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pupik/OneDrive/Escritorio/TpFinalPlataformas/TpFinalPlataformaGrupo6/Views/UsuarioCajaDeAhorroes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb0NhamFEZUFob3Jyb2VzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pupik/OneDrive/Escritorio/TpFinalPlataformas/TpFinalPlataformaGrupo6/Views/UsuarioCajaDeAhorroes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb0NhamFEZUFob3Jyb2VzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pupik/OneDrive/Escritorio/TpFinalPlataformas/TpFinalPlataformaGrupo6/Views/UsuarioCajaDeAhorroes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb0NhamFEZUFob3Jyb2VzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pupik/OneDrive/Escritorio/TpFinalPlataformas/TpFinalPlataformaGrupo6/Views/UsuarioCajaDeAhorroes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb0NhamFEZUFob3Jyb2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pupik/OneDrive/Escritorio/TpFinalPlataformas/TpFinalPlataformaGrupo6/Views/Usuarios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pupik/OneDrive/Escritorio/TpFinalPlataformas/TpFinalPlataformaGrupo6/Views/Usuarios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pupik/OneDrive/Escritorio/TpFinalPlataformas/TpFinalPlataformaGrupo6/Views/Usuarios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pupik/OneDrive/Escritorio/TpFinalPlataformas/TpFinalPlataformaGrupo6/Views/Usuarios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pupik/OneDrive/Escritorio/TpFinalPlataformas/TpFinalPlataformaGrupo6/Views/Usuarios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pupik/OneDrive/Escritorio/TpFinalPlataformas/TpFinalPlataformaGrupo6/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pupik/OneDrive/Escritorio/TpFinalPlataformas/TpFinalPlataformaGrupo6/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pupik/OneDrive/Escritorio/TpFinalPlataformas/TpFinalPlataformaGrupo6/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-da52zwlkar

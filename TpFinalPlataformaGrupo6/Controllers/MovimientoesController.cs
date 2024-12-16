@@ -59,14 +59,10 @@ namespace TpFinalPlataformaGrupo6.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("id_movimiento,num_caja,detalle,monto,fecha")] Movimiento movimiento)
         {
-            if (ModelState.IsValid)
-            {
+
                 _context.Add(movimiento);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
-            }
-            ViewData["num_caja"] = new SelectList(_context.cajaAhorro, "id", "id", movimiento.num_caja);
-            return View(movimiento);
         }
 
         // GET: Movimientoes/Edit/5
@@ -98,8 +94,6 @@ namespace TpFinalPlataformaGrupo6.Controllers
                 return NotFound();
             }
 
-            if (ModelState.IsValid)
-            {
                 try
                 {
                     _context.Update(movimiento);
@@ -117,9 +111,6 @@ namespace TpFinalPlataformaGrupo6.Controllers
                     }
                 }
                 return RedirectToAction(nameof(Index));
-            }
-            ViewData["num_caja"] = new SelectList(_context.cajaAhorro, "id", "id", movimiento.num_caja);
-            return View(movimiento);
         }
 
         // GET: Movimientoes/Delete/5

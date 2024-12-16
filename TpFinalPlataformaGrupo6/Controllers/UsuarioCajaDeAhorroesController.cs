@@ -61,15 +61,10 @@ namespace TpFinalPlataformaGrupo6.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("id_UsuarioCaja,fk_usuario,fk_cajaAhorro")] UsuarioCajaDeAhorro usuarioCajaDeAhorro)
         {
-            if (ModelState.IsValid)
-            {
+ 
                 _context.Add(usuarioCajaDeAhorro);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
-            }
-            ViewData["fk_cajaAhorro"] = new SelectList(_context.cajaAhorro, "id", "id", usuarioCajaDeAhorro.fk_cajaAhorro);
-            ViewData["fk_usuario"] = new SelectList(_context.usuarios, "id_usuario", "apellido", usuarioCajaDeAhorro.fk_usuario);
-            return View(usuarioCajaDeAhorro);
         }
 
         // GET: UsuarioCajaDeAhorroes/Edit/5
@@ -102,8 +97,6 @@ namespace TpFinalPlataformaGrupo6.Controllers
                 return NotFound();
             }
 
-            if (ModelState.IsValid)
-            {
                 try
                 {
                     _context.Update(usuarioCajaDeAhorro);
@@ -121,10 +114,7 @@ namespace TpFinalPlataformaGrupo6.Controllers
                     }
                 }
                 return RedirectToAction(nameof(Index));
-            }
-            ViewData["fk_cajaAhorro"] = new SelectList(_context.cajaAhorro, "id", "id", usuarioCajaDeAhorro.fk_cajaAhorro);
-            ViewData["fk_usuario"] = new SelectList(_context.usuarios, "id_usuario", "apellido", usuarioCajaDeAhorro.fk_usuario);
-            return View(usuarioCajaDeAhorro);
+
         }
 
         // GET: UsuarioCajaDeAhorroes/Delete/5

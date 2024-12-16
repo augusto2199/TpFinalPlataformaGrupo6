@@ -59,14 +59,10 @@ namespace TpFinalPlataformaGrupo6.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("id,num_usr,numero,codigoV,limite,consumos")] TarjetaDeCredito tarjetaDeCredito)
         {
-            if (ModelState.IsValid)
-            {
+
                 _context.Add(tarjetaDeCredito);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
-            }
-            ViewData["num_usr"] = new SelectList(_context.usuarios, "id_usuario", "apellido", tarjetaDeCredito.num_usr);
-            return View(tarjetaDeCredito);
         }
 
         // GET: TarjetaDeCreditoes/Edit/5
@@ -98,8 +94,6 @@ namespace TpFinalPlataformaGrupo6.Controllers
                 return NotFound();
             }
 
-            if (ModelState.IsValid)
-            {
                 try
                 {
                     _context.Update(tarjetaDeCredito);
@@ -117,9 +111,6 @@ namespace TpFinalPlataformaGrupo6.Controllers
                     }
                 }
                 return RedirectToAction(nameof(Index));
-            }
-            ViewData["num_usr"] = new SelectList(_context.usuarios, "id_usuario", "apellido", tarjetaDeCredito.num_usr);
-            return View(tarjetaDeCredito);
         }
 
         // GET: TarjetaDeCreditoes/Delete/5

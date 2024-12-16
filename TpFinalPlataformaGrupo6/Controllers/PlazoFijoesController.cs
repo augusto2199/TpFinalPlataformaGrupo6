@@ -59,14 +59,10 @@ namespace TpFinalPlataformaGrupo6.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("id,num_usr,monto,fechaIni,fechaFin,tasa,pagado")] PlazoFijo plazoFijo)
         {
-            if (ModelState.IsValid)
-            {
+
                 _context.Add(plazoFijo);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
-            }
-            ViewData["num_usr"] = new SelectList(_context.usuarios, "id_usuario", "apellido", plazoFijo.num_usr);
-            return View(plazoFijo);
         }
 
         // GET: PlazoFijoes/Edit/5
@@ -98,8 +94,6 @@ namespace TpFinalPlataformaGrupo6.Controllers
                 return NotFound();
             }
 
-            if (ModelState.IsValid)
-            {
                 try
                 {
                     _context.Update(plazoFijo);
@@ -117,9 +111,6 @@ namespace TpFinalPlataformaGrupo6.Controllers
                     }
                 }
                 return RedirectToAction(nameof(Index));
-            }
-            ViewData["num_usr"] = new SelectList(_context.usuarios, "id_usuario", "apellido", plazoFijo.num_usr);
-            return View(plazoFijo);
         }
 
         // GET: PlazoFijoes/Delete/5

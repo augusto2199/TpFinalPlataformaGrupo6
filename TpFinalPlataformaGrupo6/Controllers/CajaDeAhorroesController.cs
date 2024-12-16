@@ -57,13 +57,10 @@ namespace TpFinalPlataformaGrupo6.Models
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("id,cbu,saldo")] CajaDeAhorro cajaDeAhorro)
         {
-            if (ModelState.IsValid)
-            {
+
                 _context.Add(cajaDeAhorro);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
-            }
-            return View(cajaDeAhorro);
         }
 
         // GET: CajaDeAhorroes/Edit/5
@@ -94,8 +91,6 @@ namespace TpFinalPlataformaGrupo6.Models
                 return NotFound();
             }
 
-            if (ModelState.IsValid)
-            {
                 try
                 {
                     _context.Update(cajaDeAhorro);
@@ -113,8 +108,6 @@ namespace TpFinalPlataformaGrupo6.Models
                     }
                 }
                 return RedirectToAction(nameof(Index));
-            }
-            return View(cajaDeAhorro);
         }
 
         // GET: CajaDeAhorroes/Delete/5

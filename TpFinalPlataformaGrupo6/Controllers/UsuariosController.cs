@@ -56,15 +56,19 @@ namespace TpFinalPlataformaGrupo6.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("id_usuario,dni,nombre,apellido,email,usuario,password,intentosFallidos,bloqueado,administrador")] Usuario usuario)
+        public async Task<IActionResult> Create([Bind("id_usuario,dni,nombre,apellido,email,usuario,password,intentosFallidos,bloqueado,administrador")] Usuario usuari)
         {
-            if (ModelState.IsValid)
+            try
             {
-                _context.Add(usuario);
+                _context.Add(usuari);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            return View(usuario);
+            catch(Exception e)
+            {
+                Console.WriteLine(e);
+                return View(usuari);
+            }
         }
 
         // GET: Usuarios/Edit/5
@@ -88,23 +92,20 @@ namespace TpFinalPlataformaGrupo6.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("id_usuario,dni,nombre,apellido,email,usuario,password,intentosFallidos,bloqueado,administrador")] Usuario usuario)
+        public async Task<IActionResult> Edit(int id, [Bind("id_usuario,dni,nombre,apellido,email,usuario,password,intentosFallidos,bloqueado,administrador")] Usuario usuari)
         {
-            if (id != usuario.id_usuario)
+            if (id != usuari.id_usuario)
             {
                 return NotFound();
             }
-
-            if (ModelState.IsValid)
-            {
                 try
                 {
-                    _context.Update(usuario);
+                    _context.Update(usuari);
                     await _context.SaveChangesAsync();
                 }
                 catch (DbUpdateConcurrencyException)
                 {
-                    if (!UsuarioExists(usuario.id_usuario))
+                    if (!UsuarioExists(usuari.id_usuario))
                     {
                         return NotFound();
                     }
@@ -114,8 +115,6 @@ namespace TpFinalPlataformaGrupo6.Controllers
                     }
                 }
                 return RedirectToAction(nameof(Index));
-            }
-            return View(usuario);
         }
 
         // GET: Usuarios/Delete/5

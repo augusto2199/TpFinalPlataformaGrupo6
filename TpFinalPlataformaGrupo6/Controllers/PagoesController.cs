@@ -59,14 +59,10 @@ namespace TpFinalPlataformaGrupo6.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("id,num_usr,nombre,monto,pagado,metodo")] Pago pago)
         {
-            if (ModelState.IsValid)
-            {
+
                 _context.Add(pago);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
-            }
-            ViewData["num_usr"] = new SelectList(_context.usuarios, "id_usuario", "apellido", pago.num_usr);
-            return View(pago);
         }
 
         // GET: Pagoes/Edit/5
@@ -98,8 +94,7 @@ namespace TpFinalPlataformaGrupo6.Controllers
                 return NotFound();
             }
 
-            if (ModelState.IsValid)
-            {
+
                 try
                 {
                     _context.Update(pago);
@@ -117,9 +112,6 @@ namespace TpFinalPlataformaGrupo6.Controllers
                     }
                 }
                 return RedirectToAction(nameof(Index));
-            }
-            ViewData["num_usr"] = new SelectList(_context.usuarios, "id_usuario", "apellido", pago.num_usr);
-            return View(pago);
         }
 
         // GET: Pagoes/Delete/5

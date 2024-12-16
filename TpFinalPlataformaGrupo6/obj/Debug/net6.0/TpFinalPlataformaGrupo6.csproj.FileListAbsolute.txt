@@ -588,3 +588,4 @@ C:\Users\pupik\OneDrive\Escritorio\TpFinalPlataformas\TpFinalPlataformaGrupo6\ob
 C:\Users\pupik\OneDrive\Escritorio\TpFinalPlataformas\TpFinalPlataformaGrupo6\obj\Debug\net6.0\TpFinalPlataformaGrupo6.pdb
 C:\Users\pupik\OneDrive\Escritorio\TpFinalPlataformas\TpFinalPlataformaGrupo6\obj\Debug\net6.0\TpFinalPlataformaGrupo6.genruntimeconfig.cache
 C:\Users\pupik\OneDrive\Escritorio\TpFinalPlataformas\TpFinalPlataformaGrupo6\obj\Debug\net6.0\ref\TpFinalPlataformaGrupo6.dll
+C:\Users\pupik\OneDrive\Escritorio\TpFinalPlataformas\TpFinalPlataformaGrupo6\obj\Debug\net6.0\TpFinalPlataformaGrupo6.sourcelink.json

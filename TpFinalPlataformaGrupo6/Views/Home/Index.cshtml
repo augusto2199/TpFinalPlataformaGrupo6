@@ -1,24 +1,35 @@
 ﻿@{
     ViewData["Title"] = "Login";
 }
+@model TpFinalPlataformaGrupo6.Models.Usuario
+
 
 <h1 style="margin-bottom:10px;margin-top:10px;text-align:center;">Login</h1>
 
 <div style="">
     <div style="display:flex;justify-content:center" class="text-center container">
-        <form style="width:50%;display:block;justify-content:center;margin-top:50px">
+        <form style="width:50%;display:block;justify-content:center;margin-top:50px" asp-action="Login">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div style="margin-bottom:10px" class="form-group">
-                <label for="exampleInputMail">Usuario</label>
-                <input type="mail" class="form-control" id="exampleInputMail" aria-describedby="mail" placeholder="Usuario">
+                <label asp-for="usuario">Usuario</label>
+                <input asp-for="usuario" class="form-control" />
+                <span asp-validation-for="usuario" class="text-danger"></span>
             </div>
             <div style="margin-bottom:15px" class="form-group">
-                <label for="exampleInputPassword1">Contraseña</label>
-                <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Contraseña">
+                <label asp-for="password">Contraseña</label>
+                <input asp-for="password" class="form-control" />
+                <span asp-validation-for="password" class="text-danger"></span>
             </div>
             <div style="margin-bottom:10px;">
                 <a href="">Registrarse</a>
             </div>
-            <button type="submit" class="btn btn-primary">Submit</button>
+            <div class="form-group">
+                <input type="submit" value="Login" class="btn btn-primary" />
+            </div>
         </form>
     </div>
 </div>
+
+
+<div>
+    <a asp-action="Index">Back to List</a>

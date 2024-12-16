@@ -3,32 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\pupik\\OneDrive\\Escritorio\\TpFinalPlataformas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FECDD282-1137-4BAB-B07C-FBADD6591E87}|TpFinalPlataformaGrupo6\\TpFinalPlataformaGrupo6.csproj|c:\\users\\pupik\\onedrive\\escritorio\\tpfinalplataformas\\tpfinalplataformagrupo6\\views\\register\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FECDD282-1137-4BAB-B07C-FBADD6591E87}|TpFinalPlataformaGrupo6\\TpFinalPlataformaGrupo6.csproj|solutionrelative:tpfinalplataformagrupo6\\views\\register\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FECDD282-1137-4BAB-B07C-FBADD6591E87}|TpFinalPlataformaGrupo6\\TpFinalPlataformaGrupo6.csproj|c:\\users\\pupik\\onedrive\\escritorio\\tpfinalplataformas\\tpfinalplataformagrupo6\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FECDD282-1137-4BAB-B07C-FBADD6591E87}|TpFinalPlataformaGrupo6\\TpFinalPlataformaGrupo6.csproj|solutionrelative:tpfinalplataformagrupo6\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FECDD282-1137-4BAB-B07C-FBADD6591E87}|TpFinalPlataformaGrupo6\\TpFinalPlataformaGrupo6.csproj|c:\\users\\pupik\\onedrive\\escritorio\\tpfinalplataformas\\tpfinalplataformagrupo6\\views\\usuarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FECDD282-1137-4BAB-B07C-FBADD6591E87}|TpFinalPlataformaGrupo6\\TpFinalPlataformaGrupo6.csproj|solutionrelative:tpfinalplataformagrupo6\\views\\usuarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FECDD282-1137-4BAB-B07C-FBADD6591E87}|TpFinalPlataformaGrupo6\\TpFinalPlataformaGrupo6.csproj|c:\\users\\pupik\\onedrive\\escritorio\\tpfinalplataformas\\tpfinalplataformagrupo6\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FECDD282-1137-4BAB-B07C-FBADD6591E87}|TpFinalPlataformaGrupo6\\TpFinalPlataformaGrupo6.csproj|solutionrelative:tpfinalplataformagrupo6\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FECDD282-1137-4BAB-B07C-FBADD6591E87}|TpFinalPlataformaGrupo6\\TpFinalPlataformaGrupo6.csproj|c:\\users\\pupik\\onedrive\\escritorio\\tpfinalplataformas\\tpfinalplataformagrupo6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FECDD282-1137-4BAB-B07C-FBADD6591E87}|TpFinalPlataformaGrupo6\\TpFinalPlataformaGrupo6.csproj|solutionrelative:tpfinalplataformagrupo6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FECDD282-1137-4BAB-B07C-FBADD6591E87}|TpFinalPlataformaGrupo6\\TpFinalPlataformaGrupo6.csproj|c:\\users\\pupik\\onedrive\\escritorio\\tpfinalplataformas\\tpfinalplataformagrupo6\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FECDD282-1137-4BAB-B07C-FBADD6591E87}|TpFinalPlataformaGrupo6\\TpFinalPlataformaGrupo6.csproj|solutionrelative:tpfinalplataformagrupo6\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FECDD282-1137-4BAB-B07C-FBADD6591E87}|TpFinalPlataformaGrupo6\\TpFinalPlataformaGrupo6.csproj|c:\\users\\pupik\\onedrive\\escritorio\\tpfinalplataformas\\tpfinalplataformagrupo6\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECDD282-1137-4BAB-B07C-FBADD6591E87}|TpFinalPlataformaGrupo6\\TpFinalPlataformaGrupo6.csproj|solutionrelative:tpfinalplataformagrupo6\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FECDD282-1137-4BAB-B07C-FBADD6591E87}|TpFinalPlataformaGrupo6\\TpFinalPlataformaGrupo6.csproj|c:\\users\\pupik\\onedrive\\escritorio\\tpfinalplataformas\\tpfinalplataformagrupo6\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FECDD282-1137-4BAB-B07C-FBADD6591E87}|TpFinalPlataformaGrupo6\\TpFinalPlataformaGrupo6.csproj|solutionrelative:tpfinalplataformagrupo6\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FECDD282-1137-4BAB-B07C-FBADD6591E87}|TpFinalPlataformaGrupo6\\TpFinalPlataformaGrupo6.csproj|c:\\users\\pupik\\onedrive\\escritorio\\tpfinalplataformas\\tpfinalplataformagrupo6\\controllers\\cajadeahorroescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECDD282-1137-4BAB-B07C-FBADD6591E87}|TpFinalPlataformaGrupo6\\TpFinalPlataformaGrupo6.csproj|solutionrelative:tpfinalplataformagrupo6\\controllers\\cajadeahorroescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECDD282-1137-4BAB-B07C-FBADD6591E87}|TpFinalPlataformaGrupo6\\TpFinalPlataformaGrupo6.csproj|c:\\users\\pupik\\onedrive\\escritorio\\tpfinalplataformas\\tpfinalplataformagrupo6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECDD282-1137-4BAB-B07C-FBADD6591E87}|TpFinalPlataformaGrupo6\\TpFinalPlataformaGrupo6.csproj|solutionrelative:tpfinalplataformagrupo6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECDD282-1137-4BAB-B07C-FBADD6591E87}|TpFinalPlataformaGrupo6\\TpFinalPlataformaGrupo6.csproj|c:\\users\\pupik\\onedrive\\escritorio\\tpfinalplataformas\\tpfinalplataformagrupo6\\controllers\\movimientoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECDD282-1137-4BAB-B07C-FBADD6591E87}|TpFinalPlataformaGrupo6\\TpFinalPlataformaGrupo6.csproj|solutionrelative:tpfinalplataformagrupo6\\controllers\\movimientoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECDD282-1137-4BAB-B07C-FBADD6591E87}|TpFinalPlataformaGrupo6\\TpFinalPlataformaGrupo6.csproj|c:\\users\\pupik\\onedrive\\escritorio\\tpfinalplataformas\\tpfinalplataformagrupo6\\controllers\\pagoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECDD282-1137-4BAB-B07C-FBADD6591E87}|TpFinalPlataformaGrupo6\\TpFinalPlataformaGrupo6.csproj|solutionrelative:tpfinalplataformagrupo6\\controllers\\pagoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECDD282-1137-4BAB-B07C-FBADD6591E87}|TpFinalPlataformaGrupo6\\TpFinalPlataformaGrupo6.csproj|c:\\users\\pupik\\onedrive\\escritorio\\tpfinalplataformas\\tpfinalplataformagrupo6\\controllers\\plazofijoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECDD282-1137-4BAB-B07C-FBADD6591E87}|TpFinalPlataformaGrupo6\\TpFinalPlataformaGrupo6.csproj|solutionrelative:tpfinalplataformagrupo6\\controllers\\plazofijoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECDD282-1137-4BAB-B07C-FBADD6591E87}|TpFinalPlataformaGrupo6\\TpFinalPlataformaGrupo6.csproj|c:\\users\\pupik\\onedrive\\escritorio\\tpfinalplataformas\\tpfinalplataformagrupo6\\controllers\\tarjetadecreditoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECDD282-1137-4BAB-B07C-FBADD6591E87}|TpFinalPlataformaGrupo6\\TpFinalPlataformaGrupo6.csproj|solutionrelative:tpfinalplataformagrupo6\\controllers\\tarjetadecreditoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECDD282-1137-4BAB-B07C-FBADD6591E87}|TpFinalPlataformaGrupo6\\TpFinalPlataformaGrupo6.csproj|c:\\users\\pupik\\onedrive\\escritorio\\tpfinalplataformas\\tpfinalplataformagrupo6\\controllers\\usuariocajadeahorroescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECDD282-1137-4BAB-B07C-FBADD6591E87}|TpFinalPlataformaGrupo6\\TpFinalPlataformaGrupo6.csproj|solutionrelative:tpfinalplataformagrupo6\\controllers\\usuariocajadeahorroescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,93 +58,119 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\pupik\\OneDrive\\Escritorio\\TpFinalPlataformas\\TpFinalPlataformaGrupo6\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "TpFinalPlataformaGrupo6\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\pupik\\OneDrive\\Escritorio\\TpFinalPlataformas\\TpFinalPlataformaGrupo6\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "TpFinalPlataformaGrupo6\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAACIAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-15T23:56:11.198Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\pupik\\OneDrive\\Escritorio\\TpFinalPlataformas\\TpFinalPlataformaGrupo6\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "TpFinalPlataformaGrupo6\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\pupik\\OneDrive\\Escritorio\\TpFinalPlataformas\\TpFinalPlataformaGrupo6\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "TpFinalPlataformaGrupo6\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-15T23:22:10.021Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\pupik\\OneDrive\\Escritorio\\TpFinalPlataformas\\TpFinalPlataformaGrupo6\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "TpFinalPlataformaGrupo6\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\pupik\\OneDrive\\Escritorio\\TpFinalPlataformas\\TpFinalPlataformaGrupo6\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "TpFinalPlataformaGrupo6\\Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-15T23:22:09.034Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\pupik\\OneDrive\\Escritorio\\TpFinalPlataformas\\TpFinalPlataformaGrupo6\\Views\\Usuarios\\Index.cshtml",
-              "RelativeDocumentMoniker": "TpFinalPlataformaGrupo6\\Views\\Usuarios\\Index.cshtml",
-              "ToolTip": "C:\\Users\\pupik\\OneDrive\\Escritorio\\TpFinalPlataformas\\TpFinalPlataformaGrupo6\\Views\\Usuarios\\Index.cshtml",
-              "RelativeToolTip": "TpFinalPlataformaGrupo6\\Views\\Usuarios\\Index.cshtml",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-15T23:19:52.484Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\pupik\\OneDrive\\Escritorio\\TpFinalPlataformas\\TpFinalPlataformaGrupo6\\Views\\Usuarios\\Create.cshtml",
-              "RelativeDocumentMoniker": "TpFinalPlataformaGrupo6\\Views\\Usuarios\\Create.cshtml",
-              "ToolTip": "C:\\Users\\pupik\\OneDrive\\Escritorio\\TpFinalPlataformas\\TpFinalPlataformaGrupo6\\Views\\Usuarios\\Create.cshtml",
-              "RelativeToolTip": "TpFinalPlataformaGrupo6\\Views\\Usuarios\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-15T23:09:22.959Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\pupik\\OneDrive\\Escritorio\\TpFinalPlataformas\\TpFinalPlataformaGrupo6\\Views\\Register\\Index.cshtml",
-              "RelativeDocumentMoniker": "TpFinalPlataformaGrupo6\\Views\\Register\\Index.cshtml",
-              "ToolTip": "C:\\Users\\pupik\\OneDrive\\Escritorio\\TpFinalPlataformas\\TpFinalPlataformaGrupo6\\Views\\Register\\Index.cshtml",
-              "RelativeToolTip": "TpFinalPlataformaGrupo6\\Views\\Register\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAABJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-15T23:09:09.064Z",
+              "WhenOpened": "2024-12-16T17:37:25.792Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\pupik\\OneDrive\\Escritorio\\TpFinalPlataformas\\TpFinalPlataformaGrupo6\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "TpFinalPlataformaGrupo6\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\pupik\\OneDrive\\Escritorio\\TpFinalPlataformas\\TpFinalPlataformaGrupo6\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "TpFinalPlataformaGrupo6\\Views\\Home\\Index.cshtml",
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\pupik\\OneDrive\\Escritorio\\TpFinalPlataformas\\TpFinalPlataformaGrupo6\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "TpFinalPlataformaGrupo6\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\pupik\\OneDrive\\Escritorio\\TpFinalPlataformas\\TpFinalPlataformaGrupo6\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "TpFinalPlataformaGrupo6\\Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAADwv0cAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T02:52:19.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsuarioCajaDeAhorroesController.cs",
+              "DocumentMoniker": "C:\\Users\\pupik\\OneDrive\\Escritorio\\TpFinalPlataformas\\TpFinalPlataformaGrupo6\\Controllers\\UsuarioCajaDeAhorroesController.cs",
+              "RelativeDocumentMoniker": "TpFinalPlataformaGrupo6\\Controllers\\UsuarioCajaDeAhorroesController.cs",
+              "ToolTip": "C:\\Users\\pupik\\OneDrive\\Escritorio\\TpFinalPlataformas\\TpFinalPlataformaGrupo6\\Controllers\\UsuarioCajaDeAhorroesController.cs",
+              "RelativeToolTip": "TpFinalPlataformaGrupo6\\Controllers\\UsuarioCajaDeAhorroesController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAowHQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T02:52:18.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TarjetaDeCreditoesController.cs",
+              "DocumentMoniker": "C:\\Users\\pupik\\OneDrive\\Escritorio\\TpFinalPlataformas\\TpFinalPlataformaGrupo6\\Controllers\\TarjetaDeCreditoesController.cs",
+              "RelativeDocumentMoniker": "TpFinalPlataformaGrupo6\\Controllers\\TarjetaDeCreditoesController.cs",
+              "ToolTip": "C:\\Users\\pupik\\OneDrive\\Escritorio\\TpFinalPlataformas\\TpFinalPlataformaGrupo6\\Controllers\\TarjetaDeCreditoesController.cs",
+              "RelativeToolTip": "TpFinalPlataformaGrupo6\\Controllers\\TarjetaDeCreditoesController.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAkwHAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T02:52:18.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlazoFijoesController.cs",
+              "DocumentMoniker": "C:\\Users\\pupik\\OneDrive\\Escritorio\\TpFinalPlataformas\\TpFinalPlataformaGrupo6\\Controllers\\PlazoFijoesController.cs",
+              "RelativeDocumentMoniker": "TpFinalPlataformaGrupo6\\Controllers\\PlazoFijoesController.cs",
+              "ToolTip": "C:\\Users\\pupik\\OneDrive\\Escritorio\\TpFinalPlataformas\\TpFinalPlataformaGrupo6\\Controllers\\PlazoFijoesController.cs",
+              "RelativeToolTip": "TpFinalPlataformaGrupo6\\Controllers\\PlazoFijoesController.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAkwHAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T02:52:17.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PagoesController.cs",
+              "DocumentMoniker": "C:\\Users\\pupik\\OneDrive\\Escritorio\\TpFinalPlataformas\\TpFinalPlataformaGrupo6\\Controllers\\PagoesController.cs",
+              "RelativeDocumentMoniker": "TpFinalPlataformaGrupo6\\Controllers\\PagoesController.cs",
+              "ToolTip": "C:\\Users\\pupik\\OneDrive\\Escritorio\\TpFinalPlataformas\\TpFinalPlataformaGrupo6\\Controllers\\PagoesController.cs",
+              "RelativeToolTip": "TpFinalPlataformaGrupo6\\Controllers\\PagoesController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAowHEAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T02:52:16.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovimientoesController.cs",
+              "DocumentMoniker": "C:\\Users\\pupik\\OneDrive\\Escritorio\\TpFinalPlataformas\\TpFinalPlataformaGrupo6\\Controllers\\MovimientoesController.cs",
+              "RelativeDocumentMoniker": "TpFinalPlataformaGrupo6\\Controllers\\MovimientoesController.cs",
+              "ToolTip": "C:\\Users\\pupik\\OneDrive\\Escritorio\\TpFinalPlataformas\\TpFinalPlataformaGrupo6\\Controllers\\MovimientoesController.cs",
+              "RelativeToolTip": "TpFinalPlataformaGrupo6\\Controllers\\MovimientoesController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAowHAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T02:52:16.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\pupik\\OneDrive\\Escritorio\\TpFinalPlataformas\\TpFinalPlataformaGrupo6\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TpFinalPlataformaGrupo6\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\pupik\\OneDrive\\Escritorio\\TpFinalPlataformas\\TpFinalPlataformaGrupo6\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TpFinalPlataformaGrupo6\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-15T22:34:16.828Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T02:52:15.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CajaDeAhorroesController.cs",
+              "DocumentMoniker": "C:\\Users\\pupik\\OneDrive\\Escritorio\\TpFinalPlataformas\\TpFinalPlataformaGrupo6\\Controllers\\CajaDeAhorroesController.cs",
+              "RelativeDocumentMoniker": "TpFinalPlataformaGrupo6\\Controllers\\CajaDeAhorroesController.cs",
+              "ToolTip": "C:\\Users\\pupik\\OneDrive\\Escritorio\\TpFinalPlataformas\\TpFinalPlataformaGrupo6\\Controllers\\CajaDeAhorroesController.cs",
+              "RelativeToolTip": "TpFinalPlataformaGrupo6\\Controllers\\CajaDeAhorroesController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAwwG0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T02:52:14.91Z",
               "EditorCaption": ""
             }
           ]
